@@ -1,0 +1,6 @@
+$kind: http-request
+name: Report
+description: ""
+url: http://localhost:8000/report
+method: GET
+order: 4480658916093505

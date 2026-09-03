@@ -1,0 +1,101 @@
+empleado_id,empleado_name,dpto_id,dpto_name,puesto_id,puesto_name,start_date
+1,Victoria Pineda,13,Legal,114,Representante de Ventas,2021-05-27
+2,Emilia Serrano,16,Planificación Estratégica,117,Ingeniero,2021-02-18
+3,Ana Camacho,1,Compras,108,Especialista,2021-01-08
+4,Sara Aragon,4,Tecnología,110,Jefe de Proyecto,2021-09-27
+5,Jenny Pineda,4,Tecnología,101,Analista,2021-05-04
+6,Ana Rincon,8,Logística,111,Encargado,2021-06-07
+7,Ana Valencia,10,Calidad,119,Abogado,2021-04-03
+8,Jenny Cruz,20,Auditoría,112,Administrador,2021-10-09
+9,Carolina Gomez,19,Sistemas de Información,103,Cordinador,2021-02-05
+10,Sara Ortega,5,Recursos Humanos,103,Cordinador,2021-11-01
+11,Catalina Figueroa,7,Marketing,104,Gerente,2021-09-14
+12,David Mendoza,13,Legal,104,Gerente,2021-04-10
+13,Catalina Perez,2,Ventas,119,Abogado,2021-06-06
+14,Miguel Sanchez,7,Marketing,115,Diseñador,2021-02-08
+15,Stella Figueroa,8,Logística,104,Gerente,2021-09-23
+16,Doris Hernandez,15,Mantenimiento,118,Contador,2021-05-08
+17,Samuel Vera,18,Investigación y Desarrollo,119,Abogado,2021-04-22
+18,Gabriel Camacho,6,Finanzas,115,Diseñador,2021-12-13
+19,Carolina Rincon,14,Seguridad,110,Jefe de Proyecto,2021-04-07
+20,Victoria Lopez,9,Producción,102,Auxiliar,2021-05-08
+21,Sara Camacho,10,Calidad,105,Director,2021-04-01
+22,Santiago Serrano,20,Auditoría,111,Encargado,2021-06-28
+23,Catalina Torres,17,Relaciones Públicas,112,Administrador,2021-12-10
+24,Gabriel Serrano,20,Auditoría,109,Consultor,2021-04-08
+25,Emilia Gonzalez,6,Finanzas,112,Administrador,2021-06-06
+26,Doris Pacheco,16,Planificación Estratégica,103,Cordinador,2021-09-12
+27,Jorge Gonzalez,16,Planificación Estratégica,120,Médico,2021-01-09
+28,Carolina Ortega,1,Compras,117,Ingeniero,2021-04-07
+29,Sara Chaves,19,Sistemas de Información,101,Analista,2021-10-11
+30,Martina Quintero,4,Tecnología,101,Analista,2021-04-03
+31,Gabriel Rubio,18,Investigación y Desarrollo,107,Asistente,2021-12-24
+32,Camilo Torres,20,Auditoría,120,Médico,2021-01-20
+33,Nicolas Vargas,20,Auditoría,115,Diseñador,2021-11-15
+34,Mariana Ortega,20,Auditoría,111,Encargado,2021-01-20
+35,Jenny Cabrera,15,Mantenimiento,120,Médico,2021-07-02
+36,Felipe Cardenas,8,Logística,109,Consultor,2021-12-26
+37,Jenny Montoya,1,Compras,114,Representante de Ventas,2021-03-14
+38,Gabriel Sanchez,2,Ventas,103,Cordinador,2021-10-05
+39,Martina Hernandez,10,Calidad,104,Gerente,2021-10-28
+40,Miguel Quintero,1,Compras,103,Cordinador,2021-02-04
+41,Alejandro Lopez,11,Atención al Cliente,112,Administrador,2021-03-21
+42,Samuel Cardenas,4,Tecnología,114,Representante de Ventas,2021-10-16
+43,Mariana Pineda,12,Desarrollo de Producto,117,Ingeniero,2021-08-05
+44,Felipe Vargas,19,Sistemas de Información,109,Consultor,2021-10-05
+45,Samuel Gomez,3,Inventario,109,Consultor,2021-02-19
+46,Daniela Mora,1,Compras,120,Médico,2021-08-03
+47,Gabriel Sanchez,1,Compras,109,Consultor,2021-04-10
+48,Stella Montoya,5,Recursos Humanos,103,Cordinador,2021-11-24
+49,Miguel Cabrera,6,Finanzas,104,Gerente,2021-11-23
+50,Felipe Castro,7,Marketing,113,Técnico,2021-07-13
+51,Martina Montoya,9,Producción,115,Diseñador,2021-03-27
+52,Emilia Torres,18,Investigación y Desarrollo,101,Analista,2021-04-07
+53,Lucia Salazar,16,Planificación Estratégica,105,Director,2021-01-16
+54,Laura Vargas,5,Recursos Humanos,104,Gerente,2021-11-09
+55,Camilo Diaz,10,Calidad,114,Representante de Ventas,2021-01-11
+56,Sofia Perez,11,Atención al Cliente,112,Administrador,2021-12-14
+57,Pedro Diaz,2,Ventas,114,Representante de Ventas,2021-08-07
+58,Camila Alvarado,2,Ventas,114,Representante de Ventas,2021-06-16
+59,Stella Arango,8,Logística,112,Administrador,2021-10-07
+60,Sara Montoya,10,Calidad,117,Ingeniero,2021-06-12
+61,Andres Cruz,4,Tecnología,115,Diseñador,2021-03-08
+62,Carolina Camacho,7,Marketing,117,Ingeniero,2021-02-10
+63,Sebastian Figueroa,12,Desarrollo de Producto,120,Médico,2021-03-19
+64,Santiago Torres,15,Mantenimiento,102,Auxiliar,2021-06-28
+65,Daniela Vera,19,Sistemas de Información,109,Consultor,2021-07-05
+66,Manuel Quintero,1,Compras,101,Analista,2021-03-15
+67,Isabella Rincon,15,Mantenimiento,105,Director,2021-03-02
+68,Laura Aragon,4,Tecnología,107,Asistente,2021-01-10
+69,Sofia Rubio,13,Legal,114,Representante de Ventas,2021-01-03
+70,Javier Diaz,11,Atención al Cliente,108,Especialista,2021-09-20
+71,Sofia Gomez,12,Desarrollo de Producto,116,Programador,2021-11-17
+72,Isabella Salazar,5,Recursos Humanos,110,Jefe de Proyecto,2021-11-28
+73,Camila Cabrera,7,Marketing,119,Abogado,2021-09-25
+74,Samuel Camacho,5,Recursos Humanos,109,Consultor,2021-02-01
+75,Manuel Ramirez,16,Planificación Estratégica,116,Programador,2021-06-25
+76,Camilo Jimenez,4,Tecnología,112,Administrador,2021-03-16
+77,Victoria Gonzalez,13,Legal,107,Asistente,2021-04-15
+78,Isabella Pineda,5,Recursos Humanos,116,Programador,2021-06-12
+79,Alejandro Arango,9,Producción,102,Auxiliar,2021-04-25
+80,Miguel Pineda,15,Mantenimiento,113,Técnico,2021-07-21
+81,Santiago Cabrera,16,Planificación Estratégica,104,Gerente,2021-07-20
+82,Emilia Palacios,4,Tecnología,119,Abogado,2021-07-03
+83,Isabel Pineda,16,Planificación Estratégica,116,Programador,2021-07-06
+84,Carolina Serrano,14,Seguridad,104,Gerente,2021-12-06
+85,Catalina Salazar,17,Relaciones Públicas,111,Encargado,2021-10-05
+86,Camilo Aragon,18,Investigación y Desarrollo,113,Técnico,2021-07-14
+87,Pedro Vargas,6,Finanzas,107,Asistente,2021-06-28
+88,Miguel Ramirez,10,Calidad,104,Gerente,2021-02-04
+89,Emilia Lopez,4,Tecnología,106,Supervisor,2021-04-27
+90,Jose Jimenez,1,Compras,112,Administrador,2021-09-26
+91,Miguel Arango,6,Finanzas,101,Analista,2021-06-14
+92,Isabella Cruz,1,Compras,112,Administrador,2021-06-23
+93,Santiago Cardenas,18,Investigación y Desarrollo,109,Consultor,2021-01-26
+94,Paula Jimenez,19,Sistemas de Información,111,Encargado,2021-08-06
+95,Manuel Aragon,5,Recursos Humanos,112,Administrador,2021-02-06
+96,Carolina Camacho,3,Inventario,106,Supervisor,2021-07-13
+97,Diego Rojas,17,Relaciones Públicas,116,Programador,2021-11-11
+98,Sebastian Cruz,4,Tecnología,109,Consultor,2021-12-23
+99,David Palacios,3,Inventario,103,Cordinador,2021-09-08
+100,Ana Rojas,11,Atención al Cliente,120,Médico,2021-06-16
